@@ -1,6 +1,6 @@
 README
 CopiarEditar
-# Sistema: EasyClinic
+# Sistema: TaskFlow
 ## Problema que resolve
 Os problemas que ele resolve é na organização das tarefas dos  funcionários 
 ## Público-alvo
